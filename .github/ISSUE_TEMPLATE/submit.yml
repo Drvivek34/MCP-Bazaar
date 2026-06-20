@@ -1,0 +1,89 @@
+name: "➕ Submit an MCP Server"
+description: "Add a Model Context Protocol server/tool to the MCP Bazaar."
+title: "[MCP] <name of server>"
+labels: ["submission", "mcp"]
+body:
+  - type: markdown
+    attributes:
+      value: "Thanks for contributing to **MCP Bazaar**! Attribution is mandatory."
+  - type: input
+    id: name
+    attributes:
+      label: MCP server name
+      placeholder: "e.g. postgres-mcp"
+    validations:
+      required: true
+  - type: input
+    id: source
+    attributes:
+      label: Source URL
+      placeholder: "https://github.com/owner/repo"
+    validations:
+      required: true
+  - type: dropdown
+    id: category
+    attributes:
+      label: Category
+      options:
+        - databases
+        - filesystems-storage
+        - version-control
+        - cloud-services
+        - search-web
+        - browser-automation
+        - communication
+        - productivity
+        - dev-tools
+        - ai-ml
+        - knowledge-memory
+        - monitoring-observability
+        - finance
+        - security
+        - media
+        - maps-location
+        - social-media
+        - ecommerce
+        - iot-hardware
+        - misc
+    validations:
+      required: true
+  - type: dropdown
+    id: transport
+    attributes:
+      label: Transport
+      options:
+        - stdio
+        - sse
+        - streamable-http
+        - other / unknown
+    validations:
+      required: false
+  - type: input
+    id: author
+    attributes:
+      label: Author / credit
+    validations:
+      required: true
+  - type: input
+    id: license
+    attributes:
+      label: Original license
+      placeholder: "e.g. MIT, Apache-2.0, unknown"
+    validations:
+      required: true
+  - type: textarea
+    id: description
+    attributes:
+      label: Description
+      description: What does this MCP server expose (tools/resources)?
+    validations:
+      required: true
+  - type: checkboxes
+    id: confirm
+    attributes:
+      label: Confirmation
+      options:
+        - label: I have provided the source and original license; this is properly attributed.
+          required: true
+        - label: Nominate this for the ⭐ Featured shelf (optional).
+          required: false
