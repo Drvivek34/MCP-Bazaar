@@ -20,4 +20,6 @@ knowledge-memory/
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|
+| [Memory Mcp](memory-mcp/) | Graph-based semantic memory server allowing models to store facts, entities, and relationships persistently across chats. |

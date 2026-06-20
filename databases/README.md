@@ -20,4 +20,7 @@ databases/
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|
+| [Postgres Mcp](postgres-mcp/) | An official Model Context Protocol server that provides secure read/write access to PostgreSQL databases, allowing schema inspection and query executi... |
+| [Sqlite Mcp](sqlite-mcp/) | Official SQLite MCP integration allowing LLMs to load, query, and modify local SQLite database files with inspection tools. |

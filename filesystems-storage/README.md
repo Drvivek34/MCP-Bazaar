@@ -20,4 +20,6 @@ filesystems-storage/
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|
+| [Filesystem Mcp](filesystem-mcp/) | Provides secure, configurable local directory read/write access to AI models, allowing direct file manipulation within allowed paths. |

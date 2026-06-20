@@ -20,4 +20,6 @@ browser-automation/
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|
+| [Puppeteer Mcp](puppeteer-mcp/) | An MCP server that orchestrates headless Chrome browsers using Puppeteer, letting models click, screenshot, and parse live web pages. |

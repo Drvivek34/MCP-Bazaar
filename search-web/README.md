@@ -20,4 +20,6 @@ search-web/
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|
+| [Brave Search Mcp](brave-search-mcp/) | Connects LLMs to the web using Brave's search API, providing clean markdown results and snippet matching. |

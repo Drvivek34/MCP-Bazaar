@@ -20,4 +20,6 @@ communication/
 
 ## Entries
 
-_No entries yet — be the first to contribute!_
+| Entry | Description |
+|---|---|
+| [Slack Mcp](slack-mcp/) | Slack workspace connector allowing AI models to read channels, post messages, search history, and list users. |
