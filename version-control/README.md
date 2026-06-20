@@ -19,4 +19,7 @@ version-control/
 - Submit via the [submission form](https://github.com/Drvivek34/MCP-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet — be the first to contribute!_
+
+| Entry | Description |
+|---|---|
+| [Github Mcp Server](github-mcp-server/) | GitHub's official Model Context Protocol server enabling agents to read/write repositories, manage issues, pull requests, and review code. |

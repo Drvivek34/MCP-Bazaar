@@ -19,4 +19,7 @@ social-media/
 - Submit via the [submission form](https://github.com/Drvivek34/MCP-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet — be the first to contribute!_
+
+| Entry | Description |
+|---|---|
+| [Xiaohongshu Mcp](xiaohongshu-mcp/) | Model Context Protocol server for integrating Xiaohongshu (RED) API actions, enabling search, analytics, and content publication. |

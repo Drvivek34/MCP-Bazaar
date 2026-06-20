@@ -19,4 +19,7 @@ productivity/
 - Submit via the [submission form](https://github.com/Drvivek34/MCP-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet — be the first to contribute!_
+
+| Entry | Description |
+|---|---|
+| [N8N Mcp](n8n-mcp/) | An MCP server that allows Claude Desktop, Claude Code, and other editors to inspect, create, and build workflow automations inside n8n. |

@@ -19,4 +19,7 @@ dev-tools/
 - Submit via the [submission form](https://github.com/Drvivek34/MCP-Bazaar/issues/new/choose).
 
 ## Entries
-_No entries yet — be the first to contribute!_
+
+| Entry | Description |
+|---|---|
+| [Chrome Devtools Mcp](chrome-devtools-mcp/) | Official Chrome DevTools integration for coding agents, allowing them to inspect, debug, and interact with live web pages. |
