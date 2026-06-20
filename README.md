@@ -1,4 +1,4 @@
-# 🛒 MCP Bazaar
+# 🔌 MCP Bazaar
 
 > A categorized collection of Model Context Protocol (MCP) servers and tools.
 
