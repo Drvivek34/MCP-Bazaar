@@ -22,4 +22,5 @@ browser-automation/
 
 | Entry | Description |
 |---|---|
+| [Fetch Url Mcp](fetch-url-mcp/) | Downloads web pages, parses raw HTML, and returns readable markdown. Perfect for static documentation crawls. |
 | [Puppeteer Mcp](puppeteer-mcp/) | An MCP server that orchestrates headless Chrome browsers using Puppeteer, letting models click, screenshot, and parse live web pages. |

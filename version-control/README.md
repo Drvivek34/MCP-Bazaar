@@ -22,4 +22,5 @@ version-control/
 
 | Entry | Description |
 |---|---|
+| [Git Cli Mcp](git-cli-mcp/) | Bridges local git repository execution (status, commit, checkout, log) directly to your AI agent. |
 | [Github Mcp Server](github-mcp-server/) | GitHub's official Model Context Protocol server enabling agents to read/write repositories, manage issues, pull requests, and review code. |
